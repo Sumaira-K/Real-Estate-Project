@@ -243,7 +243,7 @@ Deploy
 
 ### Live Application
 
-**Live Demo:** Add the deployed application URL here.
+**Live Demo:** Yet to deploy
 
 ## Disclaimer
 
