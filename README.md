@@ -1,4 +1,4 @@
-# Real Estate Price Predictor
+# Real Estate Price Predictor 
 
 An end-to-end machine learning project that predicts real estate prices based on property-related features. The project covers data analysis, preprocessing, model training, evaluation, model persistence, and deployment through an interactive Streamlit web application.
 
